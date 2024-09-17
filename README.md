@@ -1,5 +1,5 @@
 # sanbercode-supertest-api-automation
-API automation using Supertest, Chai, Mocha, Mochawsome__
+API automation using Supertest, Chai, Mocha, Mochawsome\
 Kasir Aja - Add, get, update, delete category
 
 ## How to run:
