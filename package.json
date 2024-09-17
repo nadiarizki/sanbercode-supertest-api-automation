@@ -1,0 +1,19 @@
+{
+  "name": "tugas3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test-category-crud": "npx mocha --reporter mochawesome test/categoryCRUD.js --timeout 10000 --exit"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "tugas3": "file:"
+  },
+  "devDependencies": {
+    "chai-json-schema": "^1.5.1"
+  }
+}
